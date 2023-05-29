@@ -20,10 +20,6 @@
 .gpt3__navbar-links_logo img {
     height: 16.016000747680664px;
     width: 62.55734634399414px;
-    left: 135.659912109375px;
-    top: 74.2919921875px;
-    border-radius: 0px;
-
 }
 
 .gpt3__navbar-links_container {
@@ -50,18 +46,18 @@
 }
 
 .gpt3__navbar-sign button, .gpt3__navbar-menu_container button {
+    padding: 0.5rem 1rem;
+    color: #FFFFFF;
+    background: #FF4820;
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 18px;
     line-height: 25px;
-    padding: 0.5rem 1rem;
-
-    color: #FFFFFF;
-    background: #FF4820;
-    border-radius: 5px;
-    border: 0;
+    border: none;
     outline: none;
+
     cursor: pointer;
+    border-radius: 5px;
 }
 
 .gpt3__navbar-menu {
