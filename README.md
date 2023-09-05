@@ -9,3 +9,11 @@ npm install
 #RUN
 
 npm start
+
+#FIGMA DESIGN
+
+https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?type=design&mode=design
+
+#BEM guide
+
+https://sparkbox.com/foundry/bem_by_example
